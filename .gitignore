@@ -1,0 +1,8 @@
+
+.bowerrc
+
+frontend/bower_components/*
+
+frontend/build/*
+
+frontend/node_modules/*
